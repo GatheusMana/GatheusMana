@@ -2,7 +2,7 @@
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GatheusMana&show-icons=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GatheusMana&show_icons=true"/>  
 </div>
 
 
